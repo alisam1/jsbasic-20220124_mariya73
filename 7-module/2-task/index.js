@@ -63,4 +63,4 @@ export default class Modal {
     body.innerHTML = '';
     body.appendChild(node);
   }
-}
+}}
